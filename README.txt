@@ -1,1 +1,0 @@
-This is the Student Portal repository.
