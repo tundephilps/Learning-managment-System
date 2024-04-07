@@ -1,10 +1,9 @@
 "use client";
 //import type { Metadata } from "next";
 import { Inter } from "next/font/google";
-import "@/app/globals.css";
-import Header from "@/components/layout/header";
-
-import Sidebar from "@/components/layout/side-bar";
+import "../../app/globals.css";
+import Header from "../../components/layout/header";
+import Sidebar from "../../components/layout/side-bar";
 import styled from "styled-components";
 
 const inter = Inter({ subsets: ["latin"] });
